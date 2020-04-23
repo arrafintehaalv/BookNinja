@@ -9,7 +9,7 @@ Setup Application:
 
 ****Note:
 
-Perform all steps of setup application and make sure that node server completely run the project and then run the following command: 
+Perform all steps of setup application and make sure that node server completely run the project and then run the following command at laravel-book-api directory: 
  
  >> php artisan serve --port=8081
  
